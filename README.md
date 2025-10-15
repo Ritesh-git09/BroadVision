@@ -298,6 +298,6 @@ If you encounter any issues:
 
 ---
 
-**Made with ❤️ by BroadVision Team**
+**Made By Ritesh And Copilot**
 
 *Star ⭐ this repo if you found it helpful!*
