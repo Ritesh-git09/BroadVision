@@ -1,0 +1,24 @@
+# Core dependencies
+torch>=2.0.0
+torchvision>=0.15.0
+numpy>=1.24.0
+opencv-python>=4.8.0
+pillow>=10.0.0
+open3d>=0.17.0
+
+# Advanced depth estimation
+transformers>=4.30.0
+timm>=0.9.0
+
+# Optional: For ZoeDepth (best results)
+# Install with: pip install torch torchvision
+# Then: torch.hub.load("isl-org/ZoeDepth", "ZoeD_NK", pretrained=True)
+
+# Optional: For even better results with AI-generated 3D
+# diffusers>=0.20.0
+# accelerate>=0.20.0
+
+# Utilities
+scipy>=1.10.0
+matplotlib>=3.7.0
+tqdm>=4.65.0
